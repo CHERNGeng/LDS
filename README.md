@@ -7,8 +7,8 @@ This is a record of my self-learning of *Data Structure*, where one can find
      * problem set
 
 # Some complement you can do?
-Obviously, you can make a proofread on what I give, you may add suitable assignments in each problem set.
+Obviously, you can make some proofread on what I write, you may add suitable assignments in each problem set.
 
 # How to download?
-``git clone git@github:CHERNGeng/LDS.git /path_you_want
+``git clone https://github:CHERNGeng/LDS.git /path_you_want
 ``
